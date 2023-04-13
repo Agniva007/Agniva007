@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Employee Manager App**
 
-- 🌱 I’m currently learning **Angular CLI, Spring-Boot, Hibernate**
+- 🌱 I’m currently learning **Spring, Spring-Boot, Hibernate**
 
 - 💬 Ask me about **MERN, JAVA**
 
