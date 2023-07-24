@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agniva007" alt="agniva007" /></a> </p>
 
-- 🔭 I’m currently working on **Employee Manager App**
+- 🔭 I’m currently working on **Twitter Clone**
 
 - 🌱 I’m currently learning **Spring, Spring-Boot, Hibernate**
 
