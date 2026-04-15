@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typicalWriter&text1=Hi%20👋%20I'm%20Agniva%20Das&text2=Full-Stack%20Engineer%20%7C%20Node.js%20%7C%20DevOps&width=800&height=120" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Agniva+Das;Full-Stack+Engineer;Node.js+%7C+React+%7C+Cloud+%26+DevOps" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
