@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Hi%20👋%20I'm%20Agniva%20Das&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%7C%20React%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://svg-banners.vercel.app/api?type=typicalWriter&text1=Hi%20👋%20I'm%20Agniva%20Das&text2=Full-Stack%20Engineer%20%7C%20Node.js%20%7C%20DevOps&width=800&height=120" width="100%"/>
 </h1>
 
 <p align="center">
