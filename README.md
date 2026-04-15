@@ -105,6 +105,14 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/agniva007?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agniva007&label=Profile+Views&color=6366F1&style=flat"/>
 </p>
