@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Agniva+Das;Full-Stack+Engineer;Node.js+%7C+React+%7C+Cloud+%26+DevOps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Agniva+Das;End+to+End+Developer;Node.js+%7C+Agentic+AI+%7C+AWS+%7C+MLOps" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <b>Software Engineer @Kofuku Technologies</b> &middot; Building scalable backends & real-time systems &middot; 📍 Kolkata, India
+  <b>Sr. Forward Deployment Engineer @Kofuku Technologies</b> &middot; Building scalable backends & real-time systems &middot; 📍 Kolkata, India
 </p>
 
 <p align="center">
